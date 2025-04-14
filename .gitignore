@@ -1,0 +1,25 @@
+# Build directories
+/build/
+/out/
+/bin/
+
+# Compiled files
+*.o
+*.so
+*.a
+*.exe
+*.out
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Dependency directories
+deps/
+third_party/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
